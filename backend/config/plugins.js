@@ -1,5 +1,13 @@
 module.exports = ({ env }) => ({
-  seo: {
+  slugify: {
     enabled: true,
+    config: {
+      contentTypes: {
+        Contact: {
+          field: 'slug',
+          references: 'title',
+        },
+      },
+    },
   },
 });
