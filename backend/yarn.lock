@@ -1416,7 +1416,7 @@
     "@strapi/utils" "4.12.6"
     fs-extra "10.0.0"
 
-"@strapi/strapi@^4.0.7", "@strapi/strapi@^4.3.4", "@strapi/strapi@^4.6.1", "@strapi/strapi@^4.9.0", "@strapi/strapi@4.12.6":
+"@strapi/strapi@^4.0.7", "@strapi/strapi@^4.3.4", "@strapi/strapi@^4.9.0", "@strapi/strapi@4.12.6":
   version "4.12.6"
   resolved "https://registry.npmjs.org/@strapi/strapi/-/strapi-4.12.6.tgz"
   integrity sha512-rNyER6YWkJeb02l1+/vl9Nm5BRTtl6q1Qy+fOQoU1cIop4DJw+gby+UXzaA722LGP2g83itxT3NLtotTiR9SIQ==
@@ -3222,11 +3222,6 @@ csstype@^3.0.2:
   version "3.1.2"
   resolved "https://registry.npmjs.org/csstype/-/csstype-3.1.2.tgz"
   integrity sha512-I7K1Uu0MBPzaFKg4nI5Q7Vs2t+3gWWW648spaF+Rg7pI9ds18Ugn+lvg4SHczUdKlHI5LWBXyqfS8+DufyBsgQ==
-
-custom-slug@^2.1.1:
-  version "2.1.1"
-  resolved "https://registry.npmjs.org/custom-slug/-/custom-slug-2.1.1.tgz"
-  integrity sha512-GYrNQKAdvfQQSiH7tuiZJmrHEBvLEro9py10aAlOeEiLgyYFIERa8KFLyxVTC65QUKRCnIr80unc80UZHtldIA==
 
 date-fns@2.30.0:
   version "2.30.0"
